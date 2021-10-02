@@ -1,12 +1,10 @@
-### Hi! My name is Zach! I started learning how to code in February 2021, so my scores might not be great yet. But I am working very hard to keep improving it!
+### Hi! Welcome to Zach's Github! Zach is a Fullstack Software Engineer based in California!
 
 [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmyu&show_icons=true&theme=tokyonight)](https://github.com/zachmyu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachmyu&show_icons=true&theme=tokyonight)](https://github.com/zachmyu/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username= zachmyu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zachmyu)](https://github.com/zachmyu/github-profile-trophy) -->
 <!--
 **zachmyu/zachmyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
