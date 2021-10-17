@@ -1,8 +1,11 @@
-### Hi! Welcome to Zach's Github! Zach is a Fullstack Software Engineer based in California!
+### Hi! Welcome to Zach's Github! Zach is a Fullstack Software Engineer based in California! Zach doesn't usually talk in third person but he's sure having fun with it!
 
 [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmyu&show_icons=true&theme=tokyonight)](https://github.com/zachmyu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachmyu&show_icons=true&theme=tokyonight)](https://github.com/zachmyu/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachmyu)](https://git.io/streak-stats)
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zachmyu)](https://github.com/zachmyu/github-profile-trophy) -->
 <!--
