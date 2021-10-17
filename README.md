@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachmyu&show_icons=true&theme=tokyonight)](https://github.com/zachmyu/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachmyu)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachmyu&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zachmyu)](https://github.com/zachmyu/github-profile-trophy) -->
